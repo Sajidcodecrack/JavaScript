@@ -1,0 +1,17 @@
+.dark{
+    background-color: black;
+    color: white;
+    
+}
+.white{
+    background-color: white;
+    color: black;
+}
+button{
+    width: 120px;
+    height: 130px;
+    background-color: red;
+    color:green;
+    border: 5px solid rgb(14, 7, 47);
+    border-radius: 30px;
+}
